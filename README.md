@@ -11,7 +11,7 @@
 * Wed Alzubaidi 
  
  
-# ⌨ Project Description 
+# 📑 Project Description 
  
 The Journal Manager is a simple shell script that allows you to create, search, edit, delete, list, and display journal pages. This tool helps manage your personal journal pages stored as text files in a directory. 
  
